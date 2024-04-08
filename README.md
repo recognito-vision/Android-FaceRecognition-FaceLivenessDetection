@@ -13,26 +13,27 @@
 </p>
 
 
-## Introduction
 This repository contains a demonstration of Recognito's face recognition SDK for Android. 
 The SDK includes advanced features such as face recognition, liveness detection, and pose estimation. 
 Recognito's face recognition algorithm has been ranked as the **Top 1 in the NIST FRVT** (Face Recognition Vendor Test).
 
-## Features
+For more details and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
+
+## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Face Recognition:** Identify and verify individuals by comparing their facial features.
 - **Liveness Detection:** Determine whether a face is live or spoofed to prevent fraud in authentication processes.
 - **Pose Estimation:** Estimate the pose of a detected face, including Yaw, Roll, Pitch
 
-### Additional Features
+### - Additional Features
 - **NIST FRVT Top 1 Algorithm:** Utilize the top-ranked face recognition algorithm from the NIST FRVT for accurate and reliable results.
 - **On-premise:** Operate entirely within your infrastructure, ensuring data privacy and security.
 - **Real-time:** Perform face recognition, liveness detection, and pose estimation with minimal latency.
 - **Fully-offline:** Function without the need for an internet connection, ensuring reliability and data privacy.
 
-## Demo Video
+## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/6d34f50e-df5a-4d2a-8ce6-a38b8203d3e6" alt="youtube" width="25">  Demo Video
 [<img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/532c2717-9249-491e-8206-bf16caadb18b" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
 
-[www.youtube.com/@Recognito-Ltd](https://www.youtube.com/@Recognito-Ltd)
+Recognito Youtube Channel:   [youtube.com/@Recognito-Ltd](https://www.youtube.com/@Recognito-Ltd)
 <p align="center">
   <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/9d5813c0-2f9e-4ab5-a70a-38d8967c5b99" width="16%" />
   <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/e7dab27d-5d41-4f66-8cdb-1978c53a8b87" width="16%" />
@@ -42,24 +43,22 @@ Recognito's face recognition algorithm has been ranked as the **Top 1 in the NIS
   <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/d2f70698-932d-4bf0-900f-7f432b8702b7" width="16%" />
 </p>
 
-## Download APK
+## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="google drive" width="25">  Download APK
 <a href="https://drive.google.com/file/d/1TYrTCMbo1COSgiQ_BvVyHhiS9BkUfZ-O/view?usp=drive_link" style="display: flex; align-items: center;">
     <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", width=10%/>
 </a><br/>
 
-## SDK Integration
+## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="SDK API" width="25">  SDK Integration
 To use the Recognito SDK in your Android project, follow these steps:
 #### 1. Add `libfacesdk` into the project
 - Add the SDK folder to your Android project's directory.
 - Add the following dependency to your `build.gradle` and `settings.gradle` files:
-  
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/main/app/build.gradle#L50-L52
-  
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/main/settings.gradle#L17-L19
+  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L50-L52
+  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/settings.gradle#L17-L19
 
 #### 2. Application License (One-Time License)
 - For trial license, share your application ID.
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/main/app/build.gradle#L6-L15
+  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L6-L15
   <div style="display: flex; align-items: center;">
     <a target="_blank" href="mailto:hello@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
@@ -68,9 +67,9 @@ To use the Recognito SDK in your Android project, follow these steps:
   </div>
 
 - Add your license to `assets/license` file:
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/main/app/src/main/assets/license#L1-L5
+  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/assets/license?plain=1#L1-L5
 - Initialize SDK with license.
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/main/app/src/main/java/com/bio/facerecognition/MainActivity.kt#39-L47
+  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/java/com/bio/facerecognition/MainActivity.kt#L39-L47
 
   Initialization status codes:
   
@@ -188,4 +187,5 @@ For any questions, issues, or feature requests, please contact our support team.
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/Recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/hf_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Recognito-Vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/github_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hub.docker.com/u/recognito" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/docker_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@Recognito-Ltd" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/04/youtube_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
 </p>
