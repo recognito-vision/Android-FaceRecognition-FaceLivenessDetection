@@ -31,7 +31,7 @@ For more details and documentation, visit [https://docs.recognito.vision/](https
 - **Fully-offline:** Function without the need for an internet connection, ensuring reliability and data privacy.
 
 ## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/6d34f50e-df5a-4d2a-8ce6-a38b8203d3e6" alt="youtube" width="25">  Demo Video
-[<img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/532c2717-9249-491e-8206-bf16caadb18b" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
+[<img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/d17ee602-31a9-43e4-8d00-869e7456b2de" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
 
 Recognito Youtube Channel:   [youtube.com/@Recognito-Ltd](https://www.youtube.com/@Recognito-Ltd)
 <p align="center">
