@@ -30,25 +30,25 @@ For more details and documentation, visit [https://docs.recognito.vision/](https
 - **Real-time:** Perform face recognition, liveness detection, and pose estimation with minimal latency.
 - **Fully-offline:** Function without the need for an internet connection, ensuring reliability and data privacy.
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/6d34f50e-df5a-4d2a-8ce6-a38b8203d3e6" alt="youtube" width="25">  Demo Video
-[<img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/d17ee602-31a9-43e4-8d00-869e7456b2de" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
+## <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6d34f50e-df5a-4d2a-8ce6-a38b8203d3e6" alt="youtube" width="25">  Demo Video
+[<img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/d17ee602-31a9-43e4-8d00-869e7456b2de" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
 
 Recognito Youtube Channel:   [youtube.com/@Recognito-Ltd](https://www.youtube.com/@Recognito-Ltd)
 <p align="center">
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/9d5813c0-2f9e-4ab5-a70a-38d8967c5b99" alt="face recognition, liveness detection android demo snap 1" width="16%" />
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/e7dab27d-5d41-4f66-8cdb-1978c53a8b87" alt="face recognition, liveness detection android demo snap 2" width="16%" />
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/700e1627-9b90-4354-923a-8dcc2536e9f0" alt="face recognition, liveness detection android demo snap 3" width="16%" />
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/0466d171-4a38-4fd4-ab27-33931711febc" alt="face recognition, liveness detection android demo snap 4" width="16%" />
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/02eef939-6b3f-4f68-a4cc-c116e0494fa8" alt="face recognition, liveness detection android demo snap 5" width="16%" />
-  <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/d2f70698-932d-4bf0-900f-7f432b8702b7" alt="face recognition, liveness detection android demo snap 6" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/9d5813c0-2f9e-4ab5-a70a-38d8967c5b99" alt="face recognition, liveness detection android demo snap 1" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/e7dab27d-5d41-4f66-8cdb-1978c53a8b87" alt="face recognition, liveness detection android demo snap 2" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/700e1627-9b90-4354-923a-8dcc2536e9f0" alt="face recognition, liveness detection android demo snap 3" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/0466d171-4a38-4fd4-ab27-33931711febc" alt="face recognition, liveness detection android demo snap 4" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/02eef939-6b3f-4f68-a4cc-c116e0494fa8" alt="face recognition, liveness detection android demo snap 5" width="16%" />
+  <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/d2f70698-932d-4bf0-900f-7f432b8702b7" alt="face recognition, liveness detection android demo snap 6" width="16%" />
 </p>
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
+## <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
 <a href="https://drive.google.com/file/d/1TYrTCMbo1COSgiQ_BvVyHhiS9BkUfZ-O/view?usp=drive_link" style="display: flex; align-items: center;">
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="face recognition, liveness detection android demo download" width=10%/>
+    <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="face recognition, liveness detection android demo download" width=10%/>
 </a><br/>
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Android-Demo/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="face recognition, liveness detection android SDK API" width="25">  SDK Integration
+## <img src="https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="face recognition, liveness detection android SDK API" width="25">  SDK Integration
 To use the Recognito SDK in your Android project, follow these steps:
 #### 1. Add `libfacesdk` into the project
 - Add the SDK folder to your Android project's directory.
