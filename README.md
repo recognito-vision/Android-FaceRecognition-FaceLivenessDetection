@@ -53,23 +53,24 @@ To use the Recognito SDK in your Android project, follow these steps:
 #### 1. Add `libfacesdk` into the project
 - Add the SDK folder to your Android project's directory.
 - Add the following dependency to your `build.gradle` and `settings.gradle` files:
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L50-L52
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/settings.gradle#L17-L19
+  
+  https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L50-L52
+  https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/settings.gradle#L17-L19
 
 #### 2. Application License (One-Time License)
 - For trial license, share your application ID.
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L6-L15
+  https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L6-L15
   <div style="display: flex; align-items: center;">
-    <a target="_blank" href="mailto:hello@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
+    <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
   </div>
 
 - Add your license to `assets/license` file:
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/assets/license?plain=1#L1-L5
+  https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/assets/license?plain=1#L1-L5
 - Initialize SDK with license.
-  https://github.com/Recognito-Vision/Face-SDK-Android-Demo/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/java/com/bio/facerecognition/MainActivity.kt#L39-L47
+  https://github.com/Recognito-Vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/java/com/bio/facerecognition/MainActivity.kt#L39-L47
 
   Initialization status codes:
   
@@ -175,7 +176,7 @@ Parameters
 For any questions, issues, or feature requests, please contact our support team.
 
 <div style="display: flex; align-items: center;">
-    <a target="_blank" href="mailto:hello@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
+    <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
