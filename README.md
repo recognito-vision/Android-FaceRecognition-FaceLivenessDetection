@@ -1,5 +1,5 @@
 <a href="https://recognito.vision" style="display: flex; align-items: center;">
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/b82f5c35-09d0-4064-a252-4bcd14e22407" alt="recognito.vision"/>
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/b82f5c35-09d0-4064-a252-4bcd14e22407" alt="recognito.vision"/>
 </a><br/>
 
 # Face Recognition, Liveness Detection, Pose Estimation Android SDK Demo
@@ -19,7 +19,7 @@ Recognito's face recognition algorithm has been ranked as the **Top 1 in the NIS
 
 For more details and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Face Recognition:** Identify and verify individuals by comparing their facial features.
 - **Liveness Detection:** Determine whether a face is live or spoofed to prevent fraud in authentication processes.
 - **Pose Estimation:** Estimate the pose of a detected face, including Yaw, Roll, Pitch
@@ -172,7 +172,7 @@ Parameters
 - Return Value: A float value representing the similarity score between the two face templates.
 <br/>
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
 For any questions, issues, or feature requests, please contact our support team.
 
 <div style="display: flex; align-items: center;">
