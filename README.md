@@ -17,7 +17,7 @@ This repository contains a demonstration of Recognito's face recognition SDK for
 The SDK includes advanced features such as face recognition, liveness detection, and pose estimation. 
 Recognito's face recognition algorithm has been ranked as the **Top 1 in the NIST FRVT** (Face Recognition Vendor Test).
 
-For more details and documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
+For more details and documentation, visit [Recognito Product](https://github.com/Recognito-Vision/Product-List) and [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
 ## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Face Recognition:** Identify and verify individuals by comparing their facial features.
