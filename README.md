@@ -33,7 +33,7 @@ For more details and documentation, visit [Recognito Product](https://github.com
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6d34f50e-df5a-4d2a-8ce6-a38b8203d3e6" alt="youtube" width="25">  Demo Video
 [<img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/d17ee602-31a9-43e4-8d00-869e7456b2de" width="70%">](https://www.youtube.com/watch?v=9HM70PFa4lQ)
 
-Recognito Youtube Channel:   [youtube.com/@Recognito-Ltd](https://www.youtube.com/@recognito-vision)
+Recognito Youtube Channel:   [youtube.com/@recognito-vision](https://www.youtube.com/@recognito-vision)
 <p align="center">
   <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/9d5813c0-2f9e-4ab5-a70a-38d8967c5b99" alt="face recognition, liveness detection android demo snap 1" width="16%" />
   <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/e7dab27d-5d41-4f66-8cdb-1978c53a8b87" alt="face recognition, liveness detection android demo snap 2" width="16%" />
