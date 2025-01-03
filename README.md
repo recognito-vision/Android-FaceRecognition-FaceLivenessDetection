@@ -77,7 +77,8 @@ To use the Recognito SDK in your Android project, follow these steps:
   </div>
 
 - Add your license to `assets/license` file:
-  https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/assets/license?plain=1#L1-L5
+  https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/b4fd7788bc3f4dc14dc8bf08c1730923cf255b6b/app/src/main/assets/license?plain=1#L1-L5
+
 - Initialize SDK with license.
   https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/src/main/java/com/bio/facerecognition/MainActivity.kt#L39-L47
 
