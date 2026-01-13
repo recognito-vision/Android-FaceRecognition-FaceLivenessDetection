@@ -54,7 +54,7 @@ Recognito Youtube Channel:   [youtube.com/@recognito-vision](https://www.youtube
 </p>
 
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
-<a href="https://drive.google.com/file/d/1TYrTCMbo1COSgiQ_BvVyHhiS9BkUfZ-O/view?usp=drive_link" style="display: flex; align-items: center;">
+<a href="https://www.dropbox.com/scl/fi/qnbkc85vr0wn51vz60uxd/Recognito_FaceDemo_Core.apk?rlkey=lfaaectsm5ogob059bhy5zt12&st=8tuocup0&dl=0" style="display: flex; align-items: center;">
     <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="face recognition, liveness detection android demo download" width=10%/>
 </a><br/>
 
@@ -67,7 +67,7 @@ To use the Recognito SDK in your Android project, follow these steps:
   https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L50-L52
   https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/settings.gradle#L17-L19
 
-#### 2. Application License (One-Time License)
+#### 2. Application License 
 - For trial license, share your application ID.
   https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/blob/601379c51970400b5c90972854b3468beef683ea/app/build.gradle#L6-L15
   <div style="display: flex; align-items: center;">
