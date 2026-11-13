@@ -54,7 +54,7 @@ Recognito Youtube Channel:   [youtube.com/@recognito-vision](https://www.youtube
 </p>
 
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/fed3ae2d-b0be-4327-ba59-31cd62bee983" alt="face recognition, liveness detection android apk download" width="25">  Download APK
-<a href="https://www.dropbox.com/scl/fi/qnbkc85vr0wn51vz60uxd/Recognito_FaceDemo_Core.apk?rlkey=lfaaectsm5ogob059bhy5zt12&st=8tuocup0&dl=0" style="display: flex; align-items: center;">
+<a href="https://drive.google.com/file/d/1QFMVs-0DJAVhSpqE8h-zDyOTViTkuFQp/view?usp=drive_link" style="display: flex; align-items: center;">
     <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/6277f598-aae5-44a3-ab16-4eb19e023d56", alt="face recognition, liveness detection android demo download" width=10%/>
 </a><br/>
 
